@@ -1,0 +1,54 @@
+name: Ledger
+options:
+  bundleIdPrefix: com.yourname
+  deploymentTarget:
+    iOS: "26.0"
+  xcodeVersion: "27.0"
+  createIntermediateGroups: true
+settings:
+  base:
+    SWIFT_VERSION: "6.0"
+    SWIFT_STRICT_CONCURRENCY: complete
+    DEVELOPMENT_TEAM: ""          # set to your personal team ID in Xcode > Signing
+    CODE_SIGN_STYLE: Automatic
+packages:
+  LedgerCore:    { path: Packages/LedgerCore }
+  LedgerParsing: { path: Packages/LedgerParsing }
+  LedgerImport:  { path: Packages/LedgerImport }
+  LedgerIntents: { path: Packages/LedgerIntents }
+  LedgerAI:      { path: Packages/LedgerAI }
+  LedgerReports: { path: Packages/LedgerReports }
+targets:
+  Ledger:
+    type: application
+    platform: iOS
+    sources:
+      - App/Ledger
+      - path: Fixtures
+        type: folder
+        buildPhase: none
+    info:
+      path: App/Ledger/Info.plist
+      properties:
+        CFBundleDisplayName: Ledger
+        UILaunchScreen: {}
+        UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait]
+        NSFaceIDUsageDescription: Unlock Ledger with Face ID.
+        LSSupportsOpeningDocumentsInPlace: true
+        UIFileSharingEnabled: true
+        NSAppTransportSecurity: { NSAllowsArbitraryLoads: false }
+        CFBundleDocumentTypes:
+          - CFBundleTypeName: PDF Statement
+            LSHandlerRank: Alternate
+            LSItemContentTypes: [com.adobe.pdf]
+    dependencies:
+      - package: LedgerCore
+      - package: LedgerParsing
+      - package: LedgerImport
+      - package: LedgerIntents
+      - package: LedgerAI
+      - package: LedgerReports
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.yourname.ledger
+        TARGETED_DEVICE_FAMILY: "1"

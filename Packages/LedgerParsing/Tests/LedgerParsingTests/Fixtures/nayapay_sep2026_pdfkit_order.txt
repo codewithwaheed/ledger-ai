@@ -1,0 +1,180 @@
+=== PAGE 0 ===
+Account Statement
+01 Sep 2026 - 16 Sep 2026
+Sample User
+sample@example.com
+Current mailing address
+[address redacted]
+NayaPay ID
+sample.user@nayapay
+Account Number
+03xxxxxx8688
+IBAN
+01 Sep 2026
+Opening Balance
+Total Income
+Rs.
+50,600
+Total Spent
+16 Sep 2026
+Closing Balance
+PK45NAYA0000000000000008688 1,390.18
+Rs.
+49,986
+Rs.
+Rs. 2,004.18
+TIME TYPE DESCRIPTION AMOUNT BALANCE
+02 Sep 2026
+08:57 PM
+Raast In Incoming fund transfer from Waheed Ahmad
+SCB-5801
+Transaction ID
+SCBLPKKA20260902788322678825305
+Service Charges Rs. 0
++Rs. 2,000 Rs. 3,390.18
+02 Sep 2026
+08:58 PM
+Raast Out Outgoing fund transfer to Roman Afzal
+easypaisa Bank-6088
+Transaction ID 6a9847b4e5801b35e5136b4b
+Service Charges Rs. 0
+-Rs. 1,250 Rs. 2,140.18
+02 Sep 2026
+10:01 PM
+Raast Out Outgoing fund transfer to Maria Sabir
+easypaisa Bank-2175
+Transaction ID 6a985675bc682c726f27ddf3
+Service Charges Rs. 0
+-Rs. 300 Rs. 1,840.18
+03 Sep 2026
+01:35 PM
+Raast Out Outgoing fund transfer to Mirza Usman Baig
+Meezan-3018
+Transaction ID 6a993158bc682c726f32f06e
+Service Charges Rs. 0
+-Rs. 1,580 Rs. 260.18
+04 Sep 2026
+03:04 PM
+Raast In Incoming fund transfer from Waheed Ahmad
+SCB-5801
+Transaction ID
+SCBLPKKA20260904888361541787862
+Service Charges Rs. 0
++Rs. 1,000 Rs. 1,260.18
+CARRIED FORWARD
+(021) 111-222-729 www.nayapay.com support@nayapay.com 1
+=== PAGE 1 ===
+Account Statement
+01 Sep 2026 - 16 Sep 2026
+TIME TYPE DESCRIPTION AMOUNT BALANCE
+04 Sep 2026
+07:01 PM
+IBFT Out Outgoing fund transfer to Aiman Siddique
+BOP-0019
+Transaction ID 6a9acf41fbcaba3b18414a1b
+Service Charges Rs. 0
+-Rs. 400 Rs. 860.18
+06 Sep 2026
+09:01 PM
+Raast In Incoming fund transfer from Waheed Ahmad
+SCB-5801
+Transaction ID
+SCBLPKKA20260906188585523845852
+Service Charges Rs. 0
++Rs. 2,000 Rs. 2,860.18
+06 Sep 2026
+09:05 PM
+Raast Out Outgoing fund transfer to Ali Zaman
+JazzCash/Mobilink MFB-6180
+Raast-6180
+Transaction ID 6a9d8f41044dfe0cdd6f10eb
+Service Charges Rs. 0
+-Rs. 400 Rs. 2,460.18
+07 Sep 2026
+02:11 PM
+Raast Out Outgoing fund transfer to Matee Ilahi
+JazzCash/Mobilink MFB-5753
+Raast-5753
+Transaction ID 6a9e7fadda7c85751c07397d
+Service Charges Rs. 0
+-Rs. 440 Rs. 2,020.18
+07 Sep 2026
+05:21 PM
+Peer to Peer Money sent to MUHAMMAD SHOAIB AZWAR
+(shoaib6236@nayapay)
+NayaPay xxxx513
+Service Charges Rs. 0
+-Rs. 500 Rs. 1,520.18
+07 Sep 2026
+06:54 PM
+Raast In Incoming fund transfer from Waheed Ahmad
+SCB-5801
+Transaction ID
+SCBLPKKA2026090748869017995597
+Service Charges Rs. 0
++Rs. 38,000 Rs. 39,520.18
+07 Sep 2026
+06:54 PM
+Bill Payment
+(1LINK)
+Paid to LESCO
+Consumer Number: 1311xxxxxxxxxx
+Consumer Name: [redacted]
+Service Charges Rs. 0
+-Rs. 13,542 Rs. 25,978.18
+07 Sep 2026
+07:08 PM
+Bill Payment
+(1LINK)
+Paid to LESCO
+Consumer Number: 1311xxxxxxxxxx
+Consumer Name: [redacted]
+Service Charges Rs. 0
+-Rs. 22,734 Rs. 3,244.18
+CARRIED FORWARD
+(021) 111-222-729 www.nayapay.com support@nayapay.com 2
+=== PAGE 2 ===
+Account Statement
+01 Sep 2026 - 16 Sep 2026
+TIME TYPE DESCRIPTION AMOUNT BALANCE
+09 Sep 2026
+09:22 PM
+Raast In Incoming fund transfer from Waheed Ahmad
+SCB-5801
+Transaction ID
+SCBLPKKA20260909988889087204777
+Service Charges Rs. 0
++Rs. 7,600 Rs. 10,844.18
+09 Sep 2026
+09:22 PM
+Raast Out Outgoing fund transfer to Ramsha
+easypaisa Bank-7324
+Transaction ID 6aa187d725bb7253e0f4c32f
+Service Charges Rs. 0
+-Rs. 7,600 Rs. 3,244.18
+11 Sep 2026
+08:27 PM
+Raast Out Outgoing fund transfer to Zulfiqar Ali
+easypaisa Bank-3519
+Transaction ID 6aa41dd6ebfc2562d6fb4c99
+Service Charges Rs. 0
+-Rs. 480 Rs. 2,764.18
+11 Sep 2026
+08:31 PM
+Peer to Peer Money sent to NABEEL AHMAD
+(nabeelahmad2000@nayapay)
+NayaPay xxxx578
+Service Charges Rs. 0
+-Rs. 610 Rs. 2,154.18
+12 Sep 2026
+08:18 PM
+Raast Out Outgoing fund transfer to Muhammad Zahid
+easypaisa Bank-6178
+Transaction ID 6aa56d346f30b51a6c4c44f2
+Service Charges Rs. 0
+-Rs. 150 Rs. 2,004.18
+DISCLAIMER: This is an auto-generated statement and doesn't require a signature. Please review the amounts and balance on the
+statement, in case there is any discrepancy, please inform NayaPay within 15 days. Otherwise, the statement will be considered
+accurate. You can use the in-app Dispute Center or reach out to our Customer Support at (021) 111-222-729 or
+support@nayapay.com.
+(021) 111-222-729 www.nayapay.com support@nayapay.com 3
